@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Labor2
+Bundle-SymbolicName: de.dc.hska.mdp.labor
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: de.dc.hska.mdp.labor2.Activator
+Require-Bundle: org.eclipse.core.runtime,
+ org.junit;bundle-version="4.10.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
